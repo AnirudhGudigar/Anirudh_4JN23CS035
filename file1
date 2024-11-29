@@ -4,3 +4,4 @@ now edit
 some more changes to check some more topics in git.
 hello again...
 git log -n 1 --pretty=format:"%h-%an ,%ar :%s" 6f3b306
+git log --author="AnirudhGudigar"--since="2023-01-01" --until="2023-01-21"
