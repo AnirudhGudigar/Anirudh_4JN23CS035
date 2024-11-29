@@ -3,3 +3,4 @@ Git is version control software or server also a website,Which is used to keep t
 now edit
 some more changes to check some more topics in git.
 hello again...
+git log -n 1 --pretty=format:"%h-%an ,%ar :%s" 6f3b306
